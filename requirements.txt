@@ -1,4 +1,5 @@
 numpy
+seaborn
 scipy
 joblib
 pandas
