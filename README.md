@@ -10,3 +10,5 @@ Regresión lineal de datos con la libreria de scikit-learn
 # Variables de la base de datos
 
 ![alt text](./images/Variables.png)
+
+# La variable predictora sera charges
